@@ -17,4 +17,4 @@ Open the Jupyter notebook `make_predict.ipynb` to start using the noise reductio
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Creative Commons Legal Code License.
