@@ -1,4 +1,4 @@
-# Noisy Reducer AI
+# Nocle - Noisy Reducer with AI
 
 This project implements a noise reduction AI model that processes audio files to reduce background noise. It utilizes deep learning techniques to enhance audio quality, making it suitable for various applications in audio processing. The project includes a Jupyter notebook for predictions, sample audio files for testing, and necessary scripts for model handling.
 
